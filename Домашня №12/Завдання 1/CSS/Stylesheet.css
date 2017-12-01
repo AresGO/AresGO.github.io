@@ -1,0 +1,13 @@
+th {
+	color:red;
+	font-style: italic;
+}
+
+h1 {
+	color: blue;
+	text-align: center;
+}
+[class= "lesson"]{
+	color:red;
+	font-style: italic;
+}

@@ -1,0 +1,28 @@
+body{
+	background: url(../../Image/brick_texture.jpg) repeat-y;
+	margin: 0 0;
+	background-size: 100%;
+}
+header{
+	background: red;
+	width: 70%;
+	height: 200px;
+	margin: 0 auto;
+}
+main{
+	background: green;
+	width: 70%;
+	height: 1000px;
+	margin: 0 auto;
+}
+footer{
+	background: purple;
+	width: 70%;
+	height: 200px;
+	margin: 0 auto;
+}
+.button{
+	background: white;
+	margin: 0 0;
+}
+

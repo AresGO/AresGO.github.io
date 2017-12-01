@@ -1,0 +1,22 @@
+* {
+	text-align: center;
+}
+span {
+	color: red;
+}
+
+[class="days"] {
+	background-color:blue;
+}
+
+[class="time"] {
+	background-color: #f1f1f1;
+}
+
+[class="rose"] {
+	background-color:pink;
+}
+
+[class="blue"] {
+	background-color:#00ffff;
+}

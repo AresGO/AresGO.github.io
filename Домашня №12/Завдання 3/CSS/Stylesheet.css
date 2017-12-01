@@ -1,0 +1,6 @@
+p[class*=""]{
+	color: brown;
+}
+a:last-child{
+	color: red;
+}
